@@ -1,4 +1,4 @@
-package com.crazypig.demo.embededwebapp;
+package com.eliid.demo.embededwebapp;
 
 import java.io.File;
 import java.net.URL;
@@ -13,7 +13,7 @@ import org.eclipse.jetty.webapp.WebAppContext;
  * 
  * web应用启动器
  * 
- * @author CrazyPig
+ * @author eliid
  * @since 2016-08-03
  *
  */
