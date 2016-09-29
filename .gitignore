@@ -1,5 +1,7 @@
+.idea
 .settings
 .project
 .classpath
 target/*
 /target/
+jetty-embeded-webapp-demo.iml
